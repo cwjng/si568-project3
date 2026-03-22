@@ -87,11 +87,12 @@ def scrape_directory(url, role_filter=None):
 
 
 def build_dataset():
-    faculty_df = scrape_directory(FACULTY_URL)
+    faculty_df = scrape_directory(FACULTY_URL, role_filter=is_lecturer_or_professor)
     staff_df = scrape_directory(STAFF_URL, role_filter=is_lecturer_or_professor)
 
     combined_df = pd.concat([faculty_df, staff_df], ignore_index=True)
     combined_df = combined_df.sort_values("name", kind="stable").reset_index(drop=True)
+    combined_df = combined_df.drop_duplicates().reset_index(drop=True)
     combined_df.insert(0, "id", range(1, len(combined_df) + 1))
 
     return combined_df
