@@ -14,10 +14,12 @@ RATING_FIELDS = """
   class
   date
   comment
+  qualityRating
   helpfulRatingRounded
   difficultyRatingRounded
   clarityRatingRounded
   iWouldTakeAgain
+  ratingTags
 """
 QUERY = f"""
 query($id: ID!, $first: Int!, $after: String) {{
