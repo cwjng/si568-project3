@@ -42,6 +42,7 @@ Output columns:
 
 - reads each `rating_url`
 - fetches the professor's Rate My Professors profile page
+- extracts `num_ratings`
 - extracts `overall_rating`
 - extracts `would_take_again`
 - extracts `level_of_difficulty`
@@ -58,6 +59,7 @@ Required source column:
 
 Ratings output columns added or refreshed by `ratings.py`:
 
+- `num_ratings`
 - `overall_rating`
 - `would_take_again`
 - `level_of_difficulty`

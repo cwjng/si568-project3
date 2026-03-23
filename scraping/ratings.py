@@ -68,6 +68,7 @@ def extract_legacy_id(rating_url):
 
 def build_empty_profile():
     profile = {
+        "num_ratings": pd.NA,
         "overall_rating": pd.NA,
         "would_take_again": pd.NA,
         "level_of_difficulty": pd.NA,
@@ -145,10 +146,12 @@ def fetch_rating_summary(session, rating_url):
 
     if num_ratings == 0:
         profile = build_empty_profile()
+        profile["num_ratings"] = 0
         profile.update(tag_values)
         return profile
 
     profile = {
+        "num_ratings": num_ratings,
         "overall_rating": avg_rating if avg_rating > 0 else pd.NA,
         "would_take_again": would_take_again if would_take_again >= 0 else pd.NA,
         "level_of_difficulty": avg_difficulty if avg_difficulty > 0 else pd.NA,
@@ -168,6 +171,7 @@ def main():
     session.headers.update(HEADERS)
 
     ratings_cache = {}
+    num_ratings_values = []
     overall_ratings = []
     would_take_again_values = []
     difficulty_values = []
@@ -185,18 +189,34 @@ def main():
             rating_url,
             build_empty_profile(),
         )
+        num_ratings_values.append(summary["num_ratings"])
         overall_ratings.append(summary["overall_rating"])
         would_take_again_values.append(summary["would_take_again"])
         difficulty_values.append(summary["level_of_difficulty"])
         for column in TAG_COLUMNS:
             tag_values[column].append(summary[column])
 
+    df["num_ratings"] = num_ratings_values
     df["overall_rating"] = overall_ratings
     df["would_take_again"] = would_take_again_values
     df["level_of_difficulty"] = difficulty_values
 
     for column in TAG_COLUMNS:
         df[column] = tag_values[column]
+
+    ordered_columns = [
+        "id",
+        "name",
+        "role",
+        "rating_url",
+        "num_ratings",
+        "overall_rating",
+        "would_take_again",
+        "level_of_difficulty",
+        *TAG_COLUMNS,
+    ]
+    remaining_columns = [column for column in df.columns if column not in ordered_columns]
+    df = df[[*ordered_columns, *remaining_columns]]
 
     df.to_csv(OUTPUT_PATH, index=False, na_rep="")
 
