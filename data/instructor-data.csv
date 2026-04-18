@@ -1,0 +1,254 @@
+id,name,role,course_count,course_codes,course_ids,terms_taught_total,preparedness_pct,clarity_pct,respect_pct
+1,Aalap Doshi,Adjunct Lecturer,,,,,,,
+2,Abigail Jacobs,Assistant Professor,,,,,,,
+3,Alain Cohn,Associate Professor,1,SI710,108,2,1,1,1
+4,Alex McLeod,Lecturer III,3,SI563; SI602; SI617,32;46;53,5,0.91,0.895,0.985
+5,Alexander Levin-Koopman,Lecturer I,,,,,,,
+6,Alexis Castellanos,Adjunct Lecturer,,,,,,,
+7,Alissa Talley-Pixley,Adjunct Lecturer,,,,,,,
+8,Amanda Hardy,Lecturer I,,,,,,,
+9,Andrea Forte,Professor,,,,,,,
+10,Andrew Krumm,Assistant Professor,,,,,,,
+11,Angie Zill,Adjunct Lecturer,,,,,,,
+12,Anhong Guo,Assistant Professor,,,,,,,
+13,Anna Vento,Lecturer I,2,SI504; SI564,3;33,2,,,
+14,Anthea Josias,Lecturer IV,3,SI581; SI632; SI633,38;62;63,9,0.95,0.82,1
+15,Anthony Giove,Lecturer I,,,,,,,
+16,Anthony Whyte,Lecturer IV,1,SI506,5,12,0.92,0.75,0.95
+17,Barbara Ericson,Associate Professor,,,,,,,
+18,Barry Fishman,Professor,1,SI549,27,4,0.97,0.97,0.96
+19,Ben Green,Assistant Professor,,,,,,,
+20,Benjamin Mullins,Lecturer I,3,SI579; SI644; SI669,36;67;82,11,0.93,0.86,0.96
+21,Bobby Madamanchi,Lecturer IV,3,SI507; SI544; SI691,6;24;96,18,0.73,0.69,0.95
+22,Bulgan Jugderkhuu,Lecturer I,,,,,,,
+23,Carolyn Frost,Professor Emerita,,,,,,,
+24,Ceren Budak,Associate Professor,4,SI608; SI618; SI650; SI995,48;54;72;117,24,0.853,0.817,0.947
+25,Charles Friedman,Professor,1,SI648,70,6,0.89,0.75,0.85
+26,Charles Severance,Clinical Professor,1,SI664,79,12,0.92,0.92,0.98
+27,Chelsea Peterson-Salahuddin,Assistant Professor,1,SI500,1,1,,,
+28,Chris Teplovs,Lecturer IV,3,SI506; SI544; SI618,5;24;54,11,0.853,0.793,0.993
+29,Christian Sandvig,Professor,2,SI755; SI840,112;114,6,1,0.955,1
+30,Christopher Brooks,Associate Professor,2,SI995; SI998,117;118,18,,,
+31,Christopher Fariss,Professor,,,,,,,
+32,Cliff Lampe,Professor,5,SI529; SI682; SI691; SI697; SI998,15;91;96;97;118,15,,,
+33,Coco Krumme,Lecturer II,,,,,,,
+34,Colleen van Lent,Lecturer IV,1,SI539,21,5,0.97,0.89,0.97
+35,Cory Bilyeu,Lecturer I,,,,,,,
+36,Cory Knobel,Intermittent Lecturer,1,SI710,108,3,,,
+37,Dallas Card,Assistant Professor,2,SI500; SI649,1;71,7,0.985,0.91,0.985
+38,Daniel Atkins III,Professor Emeritus,,,,,,,
+39,Daniel Romero,Associate Professor,2,SI705; SI990,106;116,15,,,
+40,David Hanauer,Clinical Associate Professor,,,,,,,
+41,David Hessler,Professor Emeritus,,,,,,,
+42,David Jurgens,Associate Professor,7,SI511; SI561; SI630; SI650; SI670; SI990; SI998,8;31;60;72;83;116;118,37,0.878,0.76,0.875
+43,David Wallace,Clinical Associate Professor,5,SI510; SI547; SI580; SI583; SI691,7;25;37;40;96,22,0.982,0.975,0.992
+44,Deepti Wilson,Lecturer II,,,,,,,
+45,Denise Anthony,Professor,1,SI654,74,1,,,
+46,Derek Bruckner,Adjunct Lecturer,,,,,,,
+47,Douglas Van Houweling,Professor Emeritus,,,,,,,
+48,Edras Rodriguez-Torres,Adjunct Lecturer,,,,,,,
+49,Ejike Anusiem,Adjunct Lecturer,,,,,,,
+50,Elaine Czarnik,Intermittent Lecturer,1,SI644,67,1,,,
+51,Elena Godin,Lecturer IV,3,SI520; SI582; SI616,12;39;52,27,0.94,0.867,0.967
+52,Elham Amini,Lecturer I,,,,,,,
+53,Elizabeth Yakel,Professor Emerita,1,SI691,96,4,,,
+54,Elle O'Brien,Lecturer IV,2,SI544; SI699,24;99,7,0.97,0.985,0.99
+55,Elliot Soloway,Professor,,,,,,,
+56,Emily Cutlip,Adjunct Lecturer,,,,,,,
+57,Emily Schemanske,Lecturer I,,,,,,,
+58,Eric Gilbert,Professor,,,,,,,
+59,Erik Lang,Lecturer I,,,,,,,
+60,Erin Krupka,Professor,4,SI534; SI617; SI705; SI706,17;53;106;107,9,0.94,0.97,1
+61,Eytan Adar,Professor,4,SI649; SI697; SI698; SI710,71;97;98;108,15,0.98,0.95,0.955
+62,Faith Sparr,Intermittent Lecturer,1,SI519,11,1,1,0.95,1
+63,Farnaz Jahanbakhsh,Assistant Professor,,,,,,,
+64,Florian Schaub,Associate Professor,6,SI540; SI605; SI697; SI698; SI990; SI995,22;47;97;98;116;117,41,1,0.99,1
+65,Francis Blouin Jr,Professor Emeritus,,,,,,,
+66,Gabriela Marcu,Associate Professor,5,SI512; SI672; SI691; SI697; SI698,9;85;96;97;98,20,0.655,0.94,0.895
+67,Gary Olson,Professor Emeritus,,,,,,,
+68,George Furnas,Professor Emeritus,,,,,,,
+69,Graham Hukill,Lecturer I,1,SI639,64,2,,,
+70,Grant Schoenebeck,Associate Professor,3,SI602; SI652; SI670,46;73;83,11,0.607,0.583,0.85
+71,Greg Myers,Lecturer I,,,,,,,
+72,Gwendolyn S Cruzat,Professor Emerita,,,,,,,
+73,Hanna Hoover,Lecturer III,2,SI534; SI617,17;53,4,,,
+74,Hongju Lee,Lecturer I,,,,,,,
+75,Jackie Wolf,Lecturer III,4,SI539; SI552; SI568; SI582,21;28;34;39,12,0.88,0.835,0.895
+76,Jake Huang,Lecturer I,,,,,,,
+77,James Rampton,Lecturer III,5,SI511; SI582; SI588; SI594; SI611,8;39;42;44;50,13,0.938,0.916,0.89
+78,Janet Szczesny,Intermittent Lecturer,,,,,,,
+79,Jeffrey MacKie-Mason,Professor Emeritus,,,,,,,
+80,Jennifer Poulton,Intermittent Lecturer,,,,,,,
+81,Jeremy Nelson,Adjunct Lecturer,,,,,,,
+82,Jesse Johnston,Clinical Assistant Professor,3,SI666; SI667; SI676,80;81;87,12,0.91,0.787,0.98
+83,Jiayu Zhou,Associate Professor,1,SI630,60,2,,,
+84,Jinseok Kim,Lecturer III,1,SI671,84,1,,,
+85,Joan Durrance,Professor Emerita,,,,,,,
+86,Joanna Kroll,Adjunct Lecturer,,,,,,,
+87,John Leslie King,Professor Emeritus,,,,,,,
+88,John Thompson,Intermittent Lecturer,1,SI511,8,1,,,
+89,John Weiss,Intermittent Lecturer,,,,,,,
+90,Jordan Hansen,Adjunct Lecturer,,,,,,,
+91,Joshua Haskins,Lecturer I,,,,,,,
+92,Joyojeet Pal,Professor,2,SI622; SI657,55;75,8,0.94,0.925,0.915
+93,Judith Olson,Professor Emerita,,,,,,,
+94,Julie Cruz,Intermittent Lecturer,1,SI511,8,3,,,
+95,Julie Hui,Assistant Professor,1,SI582,39,3,1,1,1
+96,Justine Zhang,Assistant Professor,1,SI699,99,6,,,
+97,Karen Markey,Professor Emerita,,,,,,,
+98,Karthik Srinivasan,Assistant Professor,,,,,,,
+99,Kartik Sundaram,Lecturer I,,,,,,,
+100,Kat Curran,Lecturer I,,,,,,,
+101,Katie LaPlant,Lecturer I,1,SI500,1,2,,,
+102,Kelly Kowatch,Adjunct Lecturer,,,,,,,
+103,Kentaro Toyama,Professor,5,SI657; SI697; SI698; SI995; SI998,75;97;98;117;118,40,1,1,1
+104,Kevyn Collins-Thompson,Associate Professor,1,SI670,83,1,0.96,0.88,1
+105,Ki Hyun Ahn,Intermittent Lecturer,,,,,,,
+106,Kira Rodarte,Lecturer I,,,,,,,
+107,Kishonna Gray,Professor,1,SI682,91,2,,,
+108,Kris Steinhoff,Lecturer II,,,,,,,
+109,Krista Dunger,Adjunct Lecturer,,,,,,,
+110,Kristin Fontichiaro,Clinical Professor,7,SI530; SI547; SI549; SI626; SI643; SI647; SI699,16;25;27;58;66;69;99,17,0.942,0.878,0.8
+111,Krystle Forbes,Adjunct Lecturer,,,,,,,
+112,Kyle Balog,Lecturer I,,,,,,,
+113,Laura Murphy,Lecturer I,1,SI611,50,1,,,
+114,Laura Stagnaro,Lecturer I,,,,,,,
+115,Laurie Buis,Associate Professor,1,SI588,42,6,0.91,0.89,0.97
+116,Libby Hemphill,Associate Professor,1,SI588,42,2,0.88,0.88,0.95
+117,Lija Hogan,Lecturer II,1,SI699,99,7,0.93,0.89,0.99
+118,Lindsey Forche,Adjunct Lecturer,,,,,,,
+119,Lionel Robert,Professor,3,SI500; SI530; SI995,1;16;117,18,0.925,0.855,0.9
+120,Lisa Carter,Professor,,,,,,,
+121,Lleyana Chezick,Intermittent Lecturer,,,,,,,
+122,Lori Donovan,Adjunct Lecturer,1,SI639,64,3,,,
+123,Maggie Levenstein,Professor,,,,,,,
+124,Manali Desai,Lecturer I,2,SI579; SI669,36;82,6,,,
+125,Margaret Hedstrom,Professor Emerita,,,,,,,
+126,Mark Ackerman,Professor Emeritus,2,SI719; SI840,109;114,5,0.845,0.805,0.975
+127,Mark Guzdial,Professor,,,,,,,
+128,Mark Newman,Professor,7,SI669; SI691; SI697; SI698; SI699; SI990; SI998,82;96;97;98;99;116;118,36,0.98,0.95,1
+129,Maryam Namakforoosh,Intermittent Lecturer,1,SI564,33,1,,,
+130,Matthew Bui,Assistant Professor,1,SI511,8,2,,,
+131,Maurita Holland,Associate Professor Emerita,,,,,,,
+132,Megan Threats,Assistant Professor,4,SI542; SI548; SI554; SI647,23;26;29;69,10,0.717,0.78,0.79
+133,Melissa Chalmers,Lecturer IV,3,SI500; SI622; SI623,1;55;56,11,0.783,0.813,0.967
+134,Merve Hickok,Lecturer II,,,,,,,
+135,Michael Hess,Adjunct Lecturer,,,,,,,
+136,Michael Nebeling,Associate Professor,5,SI559; SI659; SI691; SI697; SI698,30;77;96;97;98,24,0.9,0.875,0.93
+137,Michaelanne Thomas,Assistant Professor,1,SI529,15,3,1,1,1
+138,Michelle Aebersold,Clinical Associate Professor,,,,,,,
+139,Michelle LeBlanc,Lecturer I,,,,,,,
+140,Misha Teplitskiy,Assistant Professor,4,SI511; SI611; SI710; SI840,8;50;108;114,7,0.863,0.79,1
+141,Mohamed Abbadi,Lecturer I,,,,,,,
+142,Morteza Taiebat,Lecturer I,,,,,,,
+143,Moses Lee,Adjunct Lecturer,1,SI511,8,1,,,
+144,Mustafa Naseem,Clinical Associate Professor,3,SI500; SI622; SI699,1;55;99,8,0.873,0.83,0.937
+145,Naga Sanka,Lecturer I,2,SI500; SI664,1;79,2,0.87,0.7,0.83
+146,Naren Doraiswamy,Lecturer I,3,SI507; SI602; SI671,6;46;84,10,,,
+147,Natalie Fang,Lecturer I,,,,,,,
+148,Nazanin Andalibi,Associate Professor,3,SI529; SI582; SI710,15;39;108,10,0.843,0.837,0.933
+149,Neha Bhomia,Adjunct Lecturer,,,,,,,
+150,Nick Sheltrown,Lecturer II,,,,,,,
+151,Nicole Ellison,Professor,3,SI529; SI701; SI710,15;104;108,8,0.87,0.805,0.82
+152,Nicole Sunstrum,Adjunct Lecturer,,,,,,,
+153,Noha Ghannam,Lecturer II,1,SI661,78,2,,,
+154,Oleg Nikolsky,Lecturer I,,,,,,,
+155,Oliver Haimson,Associate Professor,2,SI697; SI990,97;116,15,,,
+156,Paramveer Dhillon,Associate Professor,1,SI671,84,5,0.89,0.76,0.87
+157,Pat Steffes,Adjunct Lecturer,,,,,,,
+158,Patricia Garcia,Associate Professor,4,SI580; SI643; SI698; SI990,37;66;98;116,23,0.99,1,0.99
+159,Paul Conway,Associate Professor Emeritus,,,,,,,
+160,Paul Edwards,Professor Emeritus,,,,,,,
+161,Paul Green,Adjunct Lecturer,,,,,,,
+162,Paul Resnick,Professor,1,SI998,118,8,,,
+163,Pedja Klasnja,Professor,4,SI684; SI697; SI698; SI990,92;97;98;116,23,0.99,0.98,0.99
+164,Priti Shah,Professor,,,,,,,
+165,Qiaozhu Mei,Professor,2,SI990; SI998,116;118,26,,,
+166,Rachel Wyatt,Lecturer I,,,,,,,
+167,Ramiro Serrano Vergel,Lecturer III,2,SI559; SI649,30;71,9,0.775,0.675,0.845
+168,Rebecca Chung,Intermittent Lecturer,2,SI511; SI611,8;50,2,,,
+169,Rebecca Frank,Assistant Professor,1,SI667,81,1,,,
+170,Richard Dougherty,Professor Emeritus,,,,,,,
+171,Ricky Punzalan,Associate Professor,4,SI580; SI585; SI632; SI633,37;41;62;63,12,0.955,0.9,0.91
+172,Robin Brewer,Associate Professor,3,SI552; SI691; SI699,28;96;99,15,0.92,0.895,0.905
+173,Ruth Corddry,Lecturer I,,,,,,,
+174,Ryan Maley,Lecturer I,,,,,,,
+175,Sabina Tomkins,Assistant Professor,,,,,,,
+176,Sarah Stec,Adjunct Lecturer,,,,,,,
+177,Sarita Schoenebeck,Professor,2,SI710; SI998,108;118,6,,,
+178,Saurabh Budholiya,Lecturer I,,,,,,,
+179,Scott TenBrink,Lecturer III,3,SI538; SI682; SI688,20;91;94,6,0.88,0.86,0.97
+180,Shashank Gupta,Lecturer I,,,,,,,
+181,Shiv Saxena,Lecturer I,,,,,,,
+182,Sile O'Modhrain,Professor,2,SI515; SI521,10;13,8,1,1,1
+183,Silvia Lindtner,Professor,4,SI699; SI719; SI724; SI995,99;109;111;117,24,0.893,0.893,0.987
+184,Sol Bermann,Adjunct Clinical Assistant Professor,,,,,,,
+185,Sophia Brueckner,Associate Professor,,,,,,,
+186,Spandan Sharma,Lecturer I,,,,,,,
+187,Stephanie Brenton,Lecturer III,3,SI582; SI611; SI612,39;50;51,17,0.91,0.887,0.987
+188,Steve Oney,Associate Professor,7,SI506; SI579; SI691; SI697; SI698; SI995; SI998,5;36;96;97;98;117;118,38,0.92,0.875,0.985
+189,Sun Young Park,Associate Professor,,,,,,,
+190,Tanya Rosenblat,Professor,3,SI563; SI710; SI860,32;108;115,8,0.993,0.937,1
+191,Tawanna Dillahunt,Professor,6,SI500; SI582; SI698; SI990; SI995; SI998,1;39;98;116;117;118,38,1,0.955,0.985
+192,Thomas Finholt,Professor,,,,,,,
+193,Thomas Seiple,Lecturer I,,,,,,,
+194,Tiffany Veinot,Professor,2,SI672; SI995,85;117,15,,,
+195,Toby Kemp,Lecturer I,,,,,,,
+196,Tonya McCarley,Lecturer III,3,SI552; SI582; SI699,28;39;99,17,0.905,0.87,0.975
+197,Trevor Harkness,Adjunct Lecturer,,,,,,,
+198,VG Vinod Vydiswaran,Associate Professor,,,,,,,
+199,Vadim Besprozvany,Lecturer IV,3,SI520; SI582; SI616,12;39;52,27,0.867,0.66,0.807
+200,Venkatesh Potluri,Assistant Professor,1,SI552,28,4,,,
+201,Vikram Venugopal,Lecturer I,,,,,,,
+202,Vitaliy Popov,Assistant Professor,,,,,,,
+203,William Thompson,Lecturer I,1,SI511,8,4,1,1,1
+204,Winston Featherly-Bean,Lecturer II,,,,,,,
+205,X Jessie Yang,Associate Professor,,,,,,,
+206,Yan Chen,Professor,1,SI710,108,2,0.89,1,1
+207,Yesim Orhun,Professor,,,,,,,
+208,Yousif Hassan,Assistant Professor,,,,,,,
+209,Zafar Razzacki,Lecturer I,1,SI511,8,1,,,
+210,Allen Flynn,,3,SI542; SI661; SI672,23;78;85,5,0.99,0.99,0.99
+211,Amanda Rudolph,,1,SI538,20,1,,,
+212,Andrea Barbarin,,1,SI500,1,1,,,
+213,Andrea Thomer,,3,SI666; SI667; SI710,80;81;108,5,0.97,0.98,0.99
+214,Andrew Buchsbaum,,1,SI605,47,2,,,
+215,Anthony VANKY,,1,SI536,19,2,,,
+216,Apryl Williams,,1,SI610,49,4,1,1,1
+217,Barbara Mcquade,,1,SI605,47,2,,,
+218,Bridgette Carr,,1,SI605,47,7,0.92,0.82,0.96
+219,Brinda Mehra,,1,SI644,67,2,,,
+220,Carl Lagoze,,1,SI676,87,1,0.71,0.57,1
+221,Casey Pierce,,3,SI548; SI554; SI661,26;29;78,4,0.92,0.893,1
+222,Chavi Nana,,1,SI605,47,3,,,
+223,David Adelman,,1,SI610,49,1,,,
+224,Edward Happ,,1,SI627,59,2,0.89,0.8,0.95
+225,Elizabeth Campbell,,1,SI605,47,2,0.75,0.88,0.88
+226,Elizabeth Roberts,,1,SI719,109,1,0.73,0.8,0.93
+227,Erin Cech,,1,SI702,105,4,,,
+228,Henry Cowles,,1,SI719,109,1,,,
+229,James Westphal,,1,SI702,105,9,1,1,1
+230,Jeff Dunworth,,2,SI568; SI608,34;48,2,0.9,0.95,0.9
+231,John Carson,,1,SI719,109,1,1,0.88,1
+232,John Cheney-Lippold,,1,SI610,49,1,1,0.83,1
+233,Joy Rohde,,1,SI719,109,1,1,1,1
+234,Joyce Chai,,1,SI561,31,5,0.85,0.72,0.92
+235,Ki Ahn,,1,SI611,50,1,,,
+236,Kristen Mayer,,1,SI539,21,1,,,
+237,Lilia Cortina,,1,SI702,105,6,0.95,0.91,0.92
+238,Linfeng Li,,1,SI534,17,1,,,
+239,Luis CdeBaca,,1,SI605,47,4,1,0.94,0.94
+240,Nathan Oostendorp,,1,SI699,99,4,,,
+241,Perrin Selcer,,1,SI719,109,2,0.95,0.95,1
+242,Petula Brown,,2,SI500; SI627,1;59,3,,,
+243,Rebecca Quintana,,1,SI549,27,1,1,1,1
+244,Rhea Acharya,,1,SI622,55,1,,,
+245,Robert Goodspeed,,1,SI536,19,1,0.71,0.61,0.89
+246,Ron Eglash,,1,SI701,104,4,0.94,0.89,1
+247,Scott Bauguess,,1,SI605,47,1,,,
+248,Scott Page,,1,SI702,105,2,,,
+249,Sun Park,,2,SI582; SI691,39;96,10,,,
+250,VG Vydiswaran,,2,SI990; SI995,116;117,26,,,
+251,Vikramaditya Khanna,,1,SI605,47,1,,,
+252,Xiaofan Liang,,1,SI536,19,3,,,
+253,Yoan Hermstruewer,,1,SI605,47,1,,,
